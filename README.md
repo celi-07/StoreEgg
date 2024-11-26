@@ -10,4 +10,4 @@ To test the code you can follow the following steps:
 3. Set up react native environment 
 4. Run the project with npm run android
 
-Or simply click on the [Download Link](https://github.com/celi-07/StoreEgg/releases/download/Release/app-release.apk)
+Or simply click on the [Download Link](https://github.com/celi-07/StoreEgg/releases/download/Release/app-release.apk) for the APK
