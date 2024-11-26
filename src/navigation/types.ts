@@ -1,15 +1,14 @@
-import { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { HomeParams } from '../pages/Home'
-import { DetailParams } from '../pages/Detail'
-import { SubgameParams } from '../pages/Subgame';
-import { MyProductsParams } from '../pages/MyProducts/MyProducts';
+import { NativeStackScreenProps } from '@react-navigation/native-stack'
+
+type DetailParams = {
+  productId: number
+}
 
 export type RootStackParamList = {
-  Home: HomeParams
+  Home: undefined
   Detail: DetailParams
-  Subgame: SubgameParams
-  MyProducts: MyProductsParams
-};
+  Subgame: undefined
+}
 
 export type RootStackScreenProps<T extends keyof RootStackParamList> =
   NativeStackScreenProps<RootStackParamList, T>;

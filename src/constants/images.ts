@@ -1,19 +1,8 @@
-import bronzeCoin from "../assets/images/bronze-coin.png";
-import eggBroken from "../assets/images/egg-broken.png";
-import eggFull from "../assets/images/egg-full.png";
-import goldCoin from "../assets/images/gold-coin.png";
-import logo from '../assets/images/logo-storegg-removebg-preview.png';
-import silverCoin from "../assets/images/silver-coin.png";
-import empty from "../assets/images/empty.png";
-import egg from '../assets/images/egg-full.png'
-
-export default {
-  bronzeCoin,
-  eggBroken,
-  eggFull,
-  goldCoin,
-  logo,
-  silverCoin,
-  empty,
-  egg,
-};
+export {default as BronzeCoin} from "../assets/images/bronze-coin.png";
+export {default as EggBroken} from "../assets/images/egg-broken.png";
+export {default as EggFull} from "../assets/images/egg-full.png";
+export {default as GoldCoin} from "../assets/images/gold-coin.png";
+export {default as Logo} from '../assets/images/logo-storegg-removebg-preview.png';
+export {default as SilverCoin} from "../assets/images/silver-coin.png";
+export {default as Empty} from "../assets/images/empty.png";
+export {default as Egg} from '../assets/images/egg-full.png'

@@ -1,30 +1,13 @@
-import heart from "../assets/icons/heart.png"
-import menu from "../assets/icons/menu.png"
-import search from "../assets/icons/search.png"
-import filter from "../assets/icons/filter.png"
-import left from "../assets/icons/left.png"
-import heartOutline from "../assets/icons/heart-ol.png"
-import share from "../assets/icons/share.png"
-import location from "../assets/icons/location.png"
-import chevronLeft from '../assets/icons/chevron-left.png'
-import chevronRight from '../assets/icons/chevron-right.png'
-import coinHome from '../assets/icons/twemoji_coin.png'
-import myProd from '../assets/icons/mi_filter.png'
-import gridBtn from '../assets/icons/ph_squares-four.png'
-
-
-export default {
-  heart,
-  menu,
-  search,
-  filter,
-  left,
-  heartOutline,
-  share,
-  location,
-  chevronLeft,
-  chevronRight,
-  coinHome,
-  myProd,
-  gridBtn,
-};
+export {default as Heart} from "../assets/icons/heart.png"
+export {default as Menu} from "../assets/icons/menu.png"
+export {default as Search} from "../assets/icons/search.png"
+export {default as Filter} from "../assets/icons/filter.png"
+export {default as Left} from "../assets/icons/left.png"
+export {default as HeartOutline} from "../assets/icons/heart-ol.png"
+export {default as Share} from "../assets/icons/share.png"
+export {default as Location} from "../assets/icons/location.png"
+export {default as ChevronLeft} from '../assets/icons/chevron-left.png'
+export {default as ChevronRight} from '../assets/icons/chevron-right.png'
+export {default as CoinHome} from '../assets/icons/twemoji_coin.png'
+export {default as MyProd} from '../assets/icons/mi_filter.png'
+export {default as GridBtn} from '../assets/icons/ph_squares-four.png'
