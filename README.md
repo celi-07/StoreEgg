@@ -1,6 +1,6 @@
 # StoreEgg
 
-Welcome to StoreEgg! This is an dummy application made with React Native. The app features the use of redux, persist, tanstack-query, and many more...
+Welcome to StoreEgg! This is an dummy application made with React Native. The app features the use of redux, persist, tanstack-query, dark-light mode, modal popups and many more...
 
 ## Testing
 
